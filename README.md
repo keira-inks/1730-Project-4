@@ -7,7 +7,7 @@ This project will find all of the diagonal sums equal to an input *s*, an unsign
 To compile: `make`
 To run: `./proj4.out [name of input txt file containing 2D grid] [name of output txt file] [integer target sum] [thread count]; [additional args]`
 
-## Example cases
+## Example Case
 
 ### Input that will compare the content of the output file to another file that contains what the resulting output file should hold.
 
