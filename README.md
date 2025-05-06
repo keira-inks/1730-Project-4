@@ -10,11 +10,15 @@ To compile: `make`
 To run: `./proj4.out [name of input txt file containing 2D grid] [name of output txt file] [integer target sum] [thread count]; [additional args]`
 
 ## Example Case
-To test with in1.txt and compare output to correctOut1.txt, target sum should = 10.
-To test with in2.txt and compare output to correctOut2.txt, target sum should = 19.
-To test with in3.txt and compare output to correctOut3.txt, target sum should = 3.
-To test with in4.txt and compare output to correctOut4.txt, target sum should = 13.
-To test with in5.txt and compare output to correctOut5.txt, target sum should = 1222.
+To test with `in1.txt` and compare output to `correctOut1.txt`, target sum should = 10.
+
+To test with `in2.txt` and compare output to `correctOut2.txt`, target sum should = 19.
+
+To test with `in3.txt` and compare output to `correctOut3.txt`, target sum should = 3.
+
+To test with `in4.txt` and compare output to `correctOut4.txt`, target sum should = 13.
+
+To test with `in5.txt` and compare output to `correctOut5.txt`, target sum should = 1222.
 
 ### Input that will compare the content of the output file to another file that contains what the resulting output file should hold.
 
